@@ -19,15 +19,8 @@
         "url": "https://github.com/creasysee/mining-pool/issues"
     },
     "license": "GPL-2.0",
-    "author": "MCL",
-    "contributors": [
-        "leshacat",
-        "devnulled",
-        "foxer666",
-        "vekexasia",
-        "TheSeven",
-        "Kris Klosterman"
-    ],
+    "author": "creasysee",
+    "contributors": [],
     "main": "init.js",
     "bin": {
         "block-notify": "./scripts/blockNotify.js"
@@ -38,7 +31,7 @@
     },
   "dependencies": {
     "bitcoinjs-lib": "git+https://github.com/bitcoinjs/bitcoinjs-lib.git",
-    "merkle-bitcoin": "git+https://github.com/DirtyHarryDev/merkle-bitcoin.git,
+    "merkle-bitcoin": "git+https://github.com/DirtyHarryDev/merkle-bitcoin.git",
     "promise": "*",
     "sha3": "git+https://github.com/phusion/node-sha3.git",
     "3.npm": "^1.0.0",
