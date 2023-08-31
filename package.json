@@ -102,7 +102,7 @@
   "name": "mining-pool",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/creasysee/mining-pool.git",
+    "url": "git+https://github.com/creasysee/mining-pool.git"
   },
   "version": "0.1.6"
 }
